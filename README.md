@@ -1,9 +1,16 @@
 # BingoGame
 This is a bingo game created using C++. 
-![screen1](https://user-images.githubusercontent.com/64637631/103420700-af309c00-4bbe-11eb-8f5d-c7dea5af00dd.png)
-![screen2](https://user-images.githubusercontent.com/64637631/103420702-b061c900-4bbe-11eb-8613-35de1a6d095c.png)
-![screen3](https://user-images.githubusercontent.com/64637631/103420705-b192f600-4bbe-11eb-9ca5-754470fe829a.png)
-![screen4](https://user-images.githubusercontent.com/64637631/103420707-b2c42300-4bbe-11eb-98eb-a564dd540e92.png)
-![sccreen5](https://user-images.githubusercontent.com/64637631/103420708-b48de680-4bbe-11eb-8bde-3bb318991ed5.png)
-![screen6](https://user-images.githubusercontent.com/64637631/103420709-b5bf1380-4bbe-11eb-969f-72709f439112.png)
-![screen7](https://user-images.githubusercontent.com/64637631/103420710-b6f04080-4bbe-11eb-9bc8-f45f4480751a.png)
+
+![screen1](https://user-images.githubusercontent.com/64637631/103420841-64635400-4bbf-11eb-8309-91710475810c.png)
+
+![screen2](https://user-images.githubusercontent.com/64637631/103420843-66c5ae00-4bbf-11eb-93e5-349cc5d8726f.png)
+
+![screen3](https://user-images.githubusercontent.com/64637631/103420849-688f7180-4bbf-11eb-84e8-4e0de792da41.png)
+
+![screen4](https://user-images.githubusercontent.com/64637631/103420851-69c09e80-4bbf-11eb-83e9-2323d3214ce0.png)
+
+![sccreen5](https://user-images.githubusercontent.com/64637631/103420853-6af1cb80-4bbf-11eb-890b-69ae914674d8.png)
+
+![screen6](https://user-images.githubusercontent.com/64637631/103420855-6cbb8f00-4bbf-11eb-9182-e7d6c47e89d1.png)
+
+![screen7](https://user-images.githubusercontent.com/64637631/103420857-6e855280-4bbf-11eb-94be-d8e1ffcddd52.png)
