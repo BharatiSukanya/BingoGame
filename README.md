@@ -14,3 +14,5 @@ This is a bingo game created using C++.
 ![screen6](https://user-images.githubusercontent.com/64637631/103420855-6cbb8f00-4bbf-11eb-9182-e7d6c47e89d1.png)
 
 ![screen7](https://user-images.githubusercontent.com/64637631/103420857-6e855280-4bbf-11eb-94be-d8e1ffcddd52.png)
+
+The results are displayed on the computer screen and you can clearly see the winner. 
