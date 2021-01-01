@@ -1,5 +1,10 @@
 # BingoGame
-This is a bingo game created using C++. 
+This is a bingo game .
+
+ PLAYERS :
+  🎯 You  vs 
+  🎯 The computer
+
 
 ![screen1](https://user-images.githubusercontent.com/64637631/103420841-64635400-4bbf-11eb-8309-91710475810c.png)
 
